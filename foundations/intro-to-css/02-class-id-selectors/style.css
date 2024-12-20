@@ -1,15 +1,15 @@
 .odd {
-    background-color: light #ffc0cb;
+    background-color: light hsl(0, 77%, 71%);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
-.second {
-    color: blue;
+#second {
+    color: #0000ff;
     font-size: 36px;
 }
 .third {
     font-size: 24px;
 }
-.fourth {
+#fourth {
     background-color: #90ee90;
     font-size: 24px;
     font-weight: bold;
