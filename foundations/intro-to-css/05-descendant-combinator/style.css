@@ -4,3 +4,12 @@
     font-size: 20px;
     text-align: center;
 }
+
+/* Can also do following for the same result
+div p {
+    background-color: yellow;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+} */
+ 
